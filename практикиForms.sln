@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "приветствие", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Мили-километры", "Мили-километры\Мили-километры.csproj", "{FA7645B3-8A5A-4B49-A5F3-4AA9AB3AEFA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нажми меня", "Нажми меня\Нажми меня.csproj", "{D3852569-992D-4BF8-905B-048AF2F03C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FA7645B3-8A5A-4B49-A5F3-4AA9AB3AEFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7645B3-8A5A-4B49-A5F3-4AA9AB3AEFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7645B3-8A5A-4B49-A5F3-4AA9AB3AEFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3852569-992D-4BF8-905B-048AF2F03C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3852569-992D-4BF8-905B-048AF2F03C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3852569-992D-4BF8-905B-048AF2F03C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3852569-992D-4BF8-905B-048AF2F03C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

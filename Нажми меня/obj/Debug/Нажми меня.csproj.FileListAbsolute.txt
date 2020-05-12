@@ -1,0 +1,9 @@
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\bin\Debug\Нажми меня.exe.config
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\bin\Debug\Нажми меня.exe
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\bin\Debug\Нажми меня.pdb
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми меня.csprojAssemblyReference.cache
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми_меня.Form1.resources
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми_меня.Properties.Resources.resources
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми меня.csproj.GenerateResource.cache
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми меня.exe
+C:\Users\Наталия\Desktop\ООП9\практикиForms\Нажми меня\obj\Debug\Нажми меня.pdb
