@@ -1,0 +1,9 @@
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\bin\Debug\приветствие.exe.config
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\bin\Debug\приветствие.exe
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\bin\Debug\приветствие.pdb
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.csprojAssemblyReference.cache
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.Form1.resources
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.Properties.Resources.resources
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.csproj.GenerateResource.cache
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.exe
+C:\Users\Наталия\Desktop\ООП9\практикиForms\приветствие\obj\Debug\приветствие.pdb
