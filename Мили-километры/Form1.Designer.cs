@@ -40,7 +40,7 @@
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.label2.Font = new System.Drawing.Font("Tahoma", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.Color.LightSeaGreen;
-            this.label2.Location = new System.Drawing.Point(193, 284);
+            this.label2.Location = new System.Drawing.Point(225, 306);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(0, 35);
             this.label2.TabIndex = 3;
@@ -52,9 +52,9 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button2.ForeColor = System.Drawing.Color.MediumSlateBlue;
-            this.button2.Location = new System.Drawing.Point(187, 203);
+            this.button2.Location = new System.Drawing.Point(218, 219);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(93, 50);
+            this.button2.Size = new System.Drawing.Size(108, 54);
             this.button2.TabIndex = 4;
             this.button2.Text = "ОК";
             this.button2.UseVisualStyleBackColor = false;
@@ -66,9 +66,9 @@
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox2.ForeColor = System.Drawing.Color.Gray;
-            this.textBox2.Location = new System.Drawing.Point(187, 150);
+            this.textBox2.Location = new System.Drawing.Point(218, 162);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(300, 36);
+            this.textBox2.Size = new System.Drawing.Size(350, 36);
             this.textBox2.TabIndex = 5;
             // 
             // label3
@@ -77,7 +77,7 @@
             this.label3.BackColor = System.Drawing.Color.PapayaWhip;
             this.label3.Font = new System.Drawing.Font("Tahoma", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.OrangeRed;
-            this.label3.Location = new System.Drawing.Point(193, 103);
+            this.label3.Location = new System.Drawing.Point(225, 111);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(344, 33);
             this.label3.TabIndex = 6;
@@ -85,18 +85,21 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Мили_километры.Properties.Resources.фон;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(683, 390);
+            this.ClientSize = new System.Drawing.Size(797, 420);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
             this.DoubleBuffered = true;
+            this.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Мили-километры";
             this.ResumeLayout(false);
             this.PerformLayout();
